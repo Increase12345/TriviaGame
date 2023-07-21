@@ -1,5 +1,5 @@
 <h1 align="center">Trivia Game ⁉️</h1>
-<h3 align="center">Using Trivia API</h3>
+<h3 align="center">Using Trivia API, SwiftUI</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98255061/219272533-a15aba05-39b6-452b-a529-a9dcbb468eb8.png" width="200" />
